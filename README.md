@@ -1,8 +1,10 @@
 # NightVision
 sistema pratico de lanterna por comando para pocketmine mp 4.0.0
 
-utilize /lanterna [ on | off ]
-• configuravel (as mensagens) via plugin_data
-• totalmente por comando!
+sistema:
+  • configuravel via plugin_data
+  • interfacea configuraveis
+  • comando:
+    - /lanterna
 
-EM BREVE: tera uma versao melhor, com interfaces e etc...
+dependencias: ----
